@@ -1,13 +1,9 @@
 # Training CodeWars
 
-Training my logic with CodeWars
+Training logic with CodeWars
 
-The file structure is the following:
+## Profile: https://www.codewars.com/users/andreyna1808
 
-```
+## About the repository
 
-└── kyu8
-    └── Convert boolean values to strings 'Yes' or 'No'.
-    └── Thinkful - Logic Drills: Traffic light
-
-```
+My Resolution for Codewars Challenges.
