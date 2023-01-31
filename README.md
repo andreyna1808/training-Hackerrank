@@ -7,3 +7,25 @@ Training logic with CodeWars
 ## About the repository
 
 My Resolution for Codewars Challenges.
+
+# 
+
+The file structure is the following:
+
+```
+
+└── kyu8
+    └── 1- Convert boolean values to strings 'Yes' or 'No' and Convert a Boolean to a String.
+    └── 2- Thinkful - Logic Drills: Traffic light
+    └── 3- Even or Odd
+    └── 4- Unfinished Loop - Bug Fixing #1
+    └── 5- Quarter of the year
+    └── 6- Price of Mangoes
+    └── 7- The 'if' function
+    └── 8- Third Angle of a Triangle
+    └── 9- Simple multiplication
+    └── 10- Reversed Words
+    └── 11- Crash Override
+    └── 12- Keep Hydrated!
+    └── 13- Filter out the geese
+```
