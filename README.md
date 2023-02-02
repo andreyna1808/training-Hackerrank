@@ -30,4 +30,5 @@ The file structure is the following:
     └── 13- Filter out the geese
     └── 14- Beginner Series #2 Clock
     └── 15- Invert values
+    └── 16- String repeat
 ```
