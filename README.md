@@ -31,4 +31,6 @@ The file structure is the following:
     └── 14- Beginner Series #2 Clock
     └── 15- Invert values
     └── 16- String repeat
+    └── 17- Fun with ES6 Classes #1 - People, people, people
+    └── 18- Reversed Strings
 ```
