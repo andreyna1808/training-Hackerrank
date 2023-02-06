@@ -33,4 +33,6 @@ The file structure is the following:
     └── 16- String repeat
     └── 17- Fun with ES6 Classes #1 - People, people, people
     └── 18- Reversed Strings
+    └── 19- Return to Sanity
+    └── 20- Find Nearest square number
 ```
