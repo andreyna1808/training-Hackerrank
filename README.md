@@ -38,4 +38,5 @@ The file structure is the following:
     └── 21- Add Length
     └── 22- Grasshopper - Terminal Game #1
     └── 23- Century From Year
+    └── 24- Calculate Price Excluding VAT
 ```
