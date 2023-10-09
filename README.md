@@ -39,4 +39,5 @@ The file structure is the following:
     └── 22- Grasshopper - Terminal Game #1
     └── 23- Century From Year
     └── 24- Calculate Price Excluding VAT
+    └── 24- Classy Classes
 ```
