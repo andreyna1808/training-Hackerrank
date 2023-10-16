@@ -41,4 +41,5 @@ The file structure is the following:
     └── 24- Calculate Price Excluding VAT
     └── 25- Classy Classes
     └── 26- Collatz Conjecture (3n+1)
+    └── 27- Get Planet Name By ID
 ```
