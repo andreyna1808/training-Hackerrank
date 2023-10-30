@@ -42,4 +42,5 @@ The file structure is the following:
     └── 25- Classy Classes
     └── 26- Collatz Conjecture (3n+1)
     └── 27- Get Planet Name By ID
+    └── 28- Return Negative
 ```
