@@ -12,8 +12,16 @@ My Resolution for Codewars Challenges.
 
 The file structure is the following:
 
+## 2024 - Js, Ts and Kotlin
+
+```
+└── kyu8
+    └── 1- ConvertNumberToReversedArrayOfDigits | Convert number to reversed array of digits
 ```
 
+## 2023 - Just Js
+
+```
 └── kyu8
     └── 1- Convert boolean values to strings 'Yes' or 'No' and Convert a Boolean to a String.
     └── 2- Thinkful - Logic Drills: Traffic light
