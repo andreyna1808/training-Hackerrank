@@ -1,6 +1,6 @@
 # Training CodeWars
 
-Training logic with CodeWars
+Training logic with CodeWars With Js, Ts and Kotlin
 
 ## Profile: https://www.codewars.com/users/andreyna1808
 
