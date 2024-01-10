@@ -19,6 +19,11 @@ The file structure is the following:
     └── 1- ConvertNumberToReversedArrayOfDigits | Convert number to reversed array of digits
 ```
 
+```
+└── kyu7
+    └── 1- ExcelSheetColumnNumbers | Excel sheet column numbers
+```
+
 ## 2023 - Just Js
 
 ```
