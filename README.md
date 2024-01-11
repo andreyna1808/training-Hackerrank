@@ -19,6 +19,7 @@ The file structure is the following:
     └── 1- ConvertNumberToReversedArrayOfDigits | Convert number to reversed array of digits
     └── 2- EvenOrOdd | Even or Odd
     └── 3- ReturnNegative | Return Negative
+    └── 4- SimpleMultiplication | Simple multiplication
 ```
 
 ```
