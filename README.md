@@ -22,6 +22,7 @@ The file structure is the following:
     └── 4- SimpleMultiplication | Simple multiplication
     └── 5- InvertValues | Invert values
     └── 6- BeginnerSeries#2Clock | Beginner Series #2 Clock
+    └── 7- ReversedWords | Reversed Words
 ```
 
 ```
