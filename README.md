@@ -20,6 +20,7 @@ The file structure is the following:
     └── 2- EvenOrOdd | Even or Odd
     └── 3- ReturnNegative | Return Negative
     └── 4- SimpleMultiplication | Simple multiplication
+    └── 5- InvertValues | Invert values
 ```
 
 ```
